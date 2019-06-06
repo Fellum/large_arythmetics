@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jleann/CLionProjects/print_float_new/float_to_str.c
+large_arythmetics.h
+/Users/jleann/CLionProjects/print_float_new/large_arythmetics.h
+libft.h
+/Users/jleann/CLionProjects/print_float_new/libft.h
+
+/Users/jleann/CLionProjects/print_float_new/large_arythmetics.h
+stdlib.h
+-
+unistd.h
+-
+
+/Users/jleann/CLionProjects/print_float_new/libft.h
+stdlib.h
+-
+
